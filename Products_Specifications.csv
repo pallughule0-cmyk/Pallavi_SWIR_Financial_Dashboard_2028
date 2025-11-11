@@ -1,0 +1,5 @@
+﻿Product_ID,Product_Name,Segment,Detector_Type,Resolution (px),Wavelength_nm,Price_USD,Launch_Year
+P01,Lynx 640,Area Camera,InGaAs,640×512,900–1700,12 000,2021
+P02,Cobra SWIR,Line Scanner,InGaAs,1024,900–1700,10 500,2022
+P03,Owl 1280,Area Camera,Extended SWIR,1280×1024,1000–2100,18 000,2025
+P04,Blackbird HD,Area Camera,Extended SWIR,1920×1080,900–2500,21 000,2027

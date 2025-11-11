@@ -1,0 +1,9 @@
+﻿Year,Technology,Maturity_Level,Readiness_Score,Notes
+2021,InGaAs Sensor,Emerging,45,Limited production; high cost
+2023,InGaAs Sensor,Growth,65,Cost falling; more integrators
+2025,InGaAs Sensor,Mature,80,Volume adoption in defense
+2027,InGaAs Sensor,Established,90,Used in automotive vision
+2028,InGaAs Sensor,Peak,95,Commodity-level availability
+2021,Extended SWIR,Concept,30,Lab-level only
+2025,Extended SWIR,Growth,70,"R&D success, niche deployments"
+2028,Extended SWIR,Mature,85,Wider industrial use
